@@ -7,4 +7,5 @@ By Sathish:
 3-API-Gateway (MS)
 4-Eureka:Service Registry.(MS)
 5-Hysterix: Circuit breaker.(MS)
-6-Zipkin and Sleuth: Tracing.(MS)
+6-Config Server:Centralized configuration management.(MS)
+7-Zipkin and Sleuth: Tracing.(MS)
